@@ -1,0 +1,68 @@
+/*
+Theme Name: Child of Simone
+Author: Chris Schmieder
+Description: Child theme of Simone that adds a custom one-page style front page
+Version: 0.1
+Template: simone
+*/
+
+
+
+
+/*.main-container-zombie {
+	background: azure;
+
+}
+
+
+.container-flex {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-between;
+	align-items: space-around;
+
+
+	border: 1px solid purple;
+}
+
+.container-flex div {
+	background-color: lightgreen;
+	min-width: 60px;
+	margin: .5vw;
+	flex: 1 1 0;
+}
+.container-flex div img {
+	width: 100%;
+	height: auto;
+}*/
+
+
+/*From responsive gallery*/
+/*body { margin: 0; background: #333; }*/
+/*section.flex-gallery { 
+  padding: .5vw;
+  font-size: 0;
+  display: -ms-flexbox;
+  -ms-flex-wrap: wrap;
+  -ms-flex-direction: column;
+  -webkit-flex-flow: row wrap; 
+  flex-flow: row wrap; 
+  display: -webkit-box;
+  display: flex;
+}
+section.flex-gallery div { 
+  -webkit-box-flex: auto;
+  -ms-flex: auto;
+  flex: auto; 
+  width: 200px; 
+  margin: .5vw; 
+}
+section.flex-gallery div img { 
+  width: 100%; 
+  height: auto; 
+}
+@media screen and (max-width: 400px) {
+  section.flex-gallery div { margin: 0; }
+  section.flex-gallery { padding: 0; }
+  
+}*/
